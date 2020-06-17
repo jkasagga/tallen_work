@@ -94,9 +94,11 @@
                           <li><i class="ri-check-double-line"></i> Office phones, Network equipment</li>
                           <li><i class="ri-check-double-line"></i>Graphic Design solutions </li>
                       </ul>
+                      
                         </div>
                     </div>
                     </a>
+                    
                 </div>
                 <div class="col-xl-4 col-md-4">
                 <a href="web_services.php">
@@ -296,70 +298,9 @@ story of limitless possibilities that starts with the people, built by the peopl
     </div>
     <!--/ team_member_end -->
 
-    <!-- testimonial_area  -->
-    <div class="testimonial_area ">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="testmonial_active owl-carousel">
-                        <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                        <div class="quote">
-                                            <img src="img/testmonial/quote.svg" alt="">
-                                        </div>
-                                        <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br> 
-                                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque.  <br>
-                                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
-                                        <div class="testmonial_author">
-                                            <div class="thumb">
-                                                    <img src="img/testmonial/thumb.png" alt="">
-                                            </div>
-                                            <h3>Robert Thomson</h3>
-                                            <span>Business Owner</span>
-                                        </div>
-                                    </div>
-                        </div>
-                        <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                        <div class="quote">
-                                            <img src="img/testmonial/quote.svg" alt="">
-                                        </div>
-                                        <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br> 
-                                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque.  <br>
-                                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
-                                        <div class="testmonial_author">
-                                            <div class="thumb">
-                                                    <img src="img/testmonial/thumb.png" alt="">
-                                            </div>
-                                            <h3>Robert Thomson</h3>
-                                            <span>Business Owner</span>
-                                        </div>
-                                    </div>
-                        </div>
-                        <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                        <div class="quote">
-                                            <img src="img/testmonial/quote.svg" alt="">
-                                        </div>
-                                        <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br> 
-                                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque.  <br>
-                                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
-                                        <div class="testmonial_author">
-                                            <div class="thumb">
-                                                    <img src="img/testmonial/thumb.png" alt="">
-                                            </div>
-                                            <h3>Robert Thomson</h3>
-                                            <span>Business Owner</span>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
      
-    <div data-scroll-index="0" class="get_in_tauch_area" id="contact">
+    <div data-scroll-index="0" class="get_in_tauch_area" id="contact" style="background-color: ghostwhite;">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">

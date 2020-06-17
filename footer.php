@@ -9,23 +9,8 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-xl-7 col-lg-7 col-md-9">
-                        <div class="menu_links">
-                            <nav>
-                                <ul id="navigation">
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s" href="#about">About</a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></li>
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".4s" href="#service">Services</a></li>
-                                
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".8s" href="#">Pages</a>
-                                </li>
-                                
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.1s" href="#contact">Contact</a></li>
-                            </ul>
-                   
-                            </nav>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-12">
+                    
+                    <div class="col-lg-6 col-md-12">
                         <div class="socail_links">
                             <ul>
                                 <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="#"> <i class="fa fa-facebook"></i> </a></li>
