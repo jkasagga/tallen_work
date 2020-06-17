@@ -64,71 +64,139 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">
-                           <p>Help desk</p>
-                       </div>
-                    </div>
+            <div class="col-lg-8 mb-5 mb-lg-0">
+                <div class="blog_left_sidebar">
+                                        
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Help desk</h2>
+                                </a>
+                                <p>The IT service desk is the operating arm of an organization’s IT department, designed to keep operations running smoothly. IT service desks handle everything from individual technical problems to sweeping system outages, providing a single point of contact (SPOC) for IT users to seamlessly and easily interact with the organization’s IT branch.  </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>File Servers</h2>
+                                </a>
+                                <p>A file server is a central server in a computer network that provides file systems or at least parts of a file system to connected clients. File servers therefore offer users a central storage place for files on internal data media, which is accessible to all authorized clients.
+                            </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Email Services</h2>
+                                </a>
+                                <p>An email service is a company that provides businesses with tools to send bulk emails and implement email marketing. Email services offer user-friendly features to manage mailing lists, email design, and metrics to monitor your success.  </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Computer Repair</h2>
+                                </a>
+                                <p>When your computer crashes, you can be cut off from your files, documents, Internet, and your ability to work. Execellent computer repair is needed immediately! This is where TALLEN comes in. We offer affordable repair services around the Country for Personal Computers, UPS, Heavy Duty Printers, etc. Our experienced team of computer technicians can handle any computer repair, no matter how simple or complex. </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Virtualisation Services</h2>
+                                </a>
+                                <p>Virtualization relies on software to simulate hardware functionality and create a virtual computer system. This enables IT organizations to run more than one virtual system – and multiple operating systems and applications – on a single server. The resulting benefits include economies of scale and greater efficiency. </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Data Security&nbsp;&amp;&nbsp;Data Back up</h2>
+                                </a>
+                                <p>One of the most important aspects of business success is data storage. Whether your business has to store employee records, financial details, assets, company expansion plans, customer records or everything about the company, it is imperative that you settle for the best possible data storage solution. It would be unfortunate for a company in this age to be grounded just because data is lost, damaged or compromised and there is no way to recover it.</p> <p>Data integrity and security is very serious and many companies invest a fortune to make sure that their information is safe and secure. If you are looking for one of the most reliable, secure and reasonably priced data storage solution options on the market write to us at <strong>tallen.tallen@tech.com</strong></p> </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Network Equipment</h2>
+                                </a>
+                                <p>Our network support capabilities provide assurance that your IT network problems will be a thing of the past. As your network support company, we will completely eliminate the stress that normally accompanies resolving network related issues.</p>
+
+<p>We design, install and support advanced solutions that enable your IT environment to enhance business productivity throughout your organization. We provide professional network support and computer support. In addition to our onsite services, we provide in house diagnostics and repair, remote support and 24/7 preventative monitoring. Let us be the expert IT department for your organization.</p>
+
+<p>Our extensively certified knowledgeable staff and preferred vendor relationships meets the information technology planning, design, implementation, maintenance and management requirements of both single and multi-tiered networks. We have a proven track record, an enduring commitment to customer satisfaction, and the expertise your business needs.</p> 
+                        
+                        </div>
+                    </article>
+
                 </div>
             </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">File Servers</div>
+            
+            <div class="col-lg-4">
+                    <div class="blog_right_sidebar">
+                        <aside class="single_sidebar_widget search_widget">
+                            <form action="#">
+                                <div class="form-group">
+                                    <div class="input-group mb-3">
+                                        <input type="text" class="form-control" placeholder='Search Keyword'
+                                            onfocus="this.placeholder = ''"
+                                            onblur="this.placeholder = 'Search Keyword'">
+                                        <div class="input-group-append">
+                                            <button class="btn" type="button"><i class="ti-search"></i></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
+                                    type="submit">Search</button>
+                            </form>
+                        </aside>
+
+                        <aside class="single_sidebar_widget post_category_widget">
+                            <h4 class="widget_title">Category</h4>
+                            <ul class="list cat-list">
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Help Desk Services</p>
+                                        
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>File Servers</p>
+                                        
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Email Services</p>
+                                        
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Computer Repair</p>
+                                       
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Virtual Desktops</p>
+                                        
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        </aside>
+                        <aside class="single_sidebar_widget newsletter_widget">
+                            <h4 class="widget_title">Newsletter</h4>
+
+                            <form action="#">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" onfocus="this.placeholder = ''"
+                                        onblur="this.placeholder = 'Enter email'" placeholder='Enter email' required>
+                                </div>
+                                <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
+                                    type="submit">Subscribe</button>
+                            </form>
+                        </aside>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">Email</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">Computer Repair</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">Virtualisation</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">Data Security</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">Data Backups</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">Office Phones</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="card">
-                    <div class="card-body">
-                       <div class="card-text">Network Equipment</div>
-                    </div>
-                </div>
-            </div>
+
         </div>    
     </div>
 

@@ -99,7 +99,7 @@
                     </a>
                 </div>
                 <div class="col-xl-4 col-md-4">
-                <a href="#">
+                <a href="web_services.php">
                     <div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                         <div class="icon">
                             <img src="img/svg_icon/2.svg" alt="">
@@ -120,7 +120,7 @@
 </a>
                 </div>
                 <div class="col-xl-4 col-md-4">
-                <a href="#">
+                <a href="marketing.php">
                     <div class="single_service text-center wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s">
                         <div class="icon">
                             <img src="img/svg_icon/3.svg" alt="">
@@ -168,28 +168,32 @@ story of limitless possibilities that starts with the people, built by the peopl
         </div>
     </div>
 
-    <section class="mission">
+    <section class="mission section-padding">
         <div class="container">
-            <div class="row" style="margin-top:40px">
-                <div class="col">
+            <div class="row justify-content-center" style="margin-top:40px">
+                <div class="col-lg-6">
                 <div class="card" style="width: 18rem;">
-                <img class="card-img-top" src="img/about/mission.jpg" alt="Card image cap">
+                <div class="img-fluid">
+                        <img class="card-img-top" src="img/about/mission.jpg" alt="Card image cap">
+                    </div>
+                
                 <div class="card-body">
                     <h4 class="card-text" align="center">Make it easy.</h4>
                 </div>
                 </div>
                 </div>
 
-                <div class="col" >
-                <div class="card" style="width: 18rem; float:right">
-                <img class="card-img-top" src="img/about/Vision1.jpg" alt="Card image cap">
+                <div class="col-lg-6" >
+                <div class="card" style="width: 18rem;">
+                    <div class="img-fluid">
+                        <img class="card-img-top" src="img/about/Vision1.jpg" alt="Card image cap">
+                    </div>
+                
                 <div class="card-body">
                     <h4 class="card-text" align="center">Service at hand.</h4>
                 </div>
                 </div>
                 </div>
-
-        
 
             </div>
         </div>
@@ -354,46 +358,7 @@ story of limitless possibilities that starts with the people, built by the peopl
             </div>
         </div>
     </div>
-    <!-- /testimonial_area  -->
-    <!-- digital-marketing area-->
-    <div class="container team_area" id="digital-marketing">
-        <div class="row justify-content-center">
-            <div class="col-lg-12">
-                 
-                <div class="card">
-                    <div class="card-header">
-                        <div class="section-title text-center pb-90">
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Digital  Marketing</h3>
-                        </div>
-                    </div>
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-md-6 justify-content-left">
-                                <div class="card-title text-center">
-                                <h5 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Social Media Marketing</h5>
-                            </div>
-                            <div class="card-text">
-                              <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Social media marketing is the use of social media platforms to connect with your audience to build your brand, increase sales, and drive website traffic. This involves publishing great content on your social media profiles, listening to and engaging your followers, analyzing your results, and running social media advertisements</p>
-                            </div>
-                           </div>
-                        <div class="col-md-6 ">
-                            <div class="card-title text-center">
-                                <h5 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Video Marketing</h5>
-                            </div>
-                            <div class="card-text">
-                            <p class="fadeInUp excert" data-wow-duration="1s" data-wow-delay=".6s">Social media marketing is the use of social media platforms to connect with your audience to build your brand, increase sales, and drive website traffic. This involves publishing great content on your social media profiles, listening to and engaging your followers, analyzing your results, and running social media advertisements</p>
-                        </div>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            
-            </div>
-        </div>
-            
-    </div>
-    <!-- /digital-marketing area-->
-    
+     
     <div data-scroll-index="0" class="get_in_tauch_area" id="contact">
         <div class="container">
             <div class="row justify-content-center">
@@ -469,7 +434,7 @@ story of limitless possibilities that starts with the people, built by the peopl
 
     <!-- Scroll to Top Button-->
       <a class="scroll-to-top rounded" href="#page-top">
-      <i class="ti angle-up"></i>
+      <i class="fa angle-up"></i>
       </a>
     <!-- footer start -->
     <?php include("footer.php"); ?>

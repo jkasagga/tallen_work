@@ -48,11 +48,10 @@
                     <div class="col-lg-12 col-md-12">
                         <div class="slider_text">
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                                We are a creative agency that
-                                focus on one-to-one customer
-                                service with robust ideas.
+                                We are a creative team that
+                                focus on delivering State of the Art Web and Mobile Based Applications to Our Customers.
                             </h3>
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#">Visit Our Works</a>
+                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#web">Visit Our Works</a>
                         </div>
                     </div>
                 </div>
@@ -61,333 +60,132 @@
     </div>
     <!-- slider_area_end -->
 
-    <div class="our_mission_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="mission_text">
-                        <h4>Our Mission</h4>
-                    </div>
-                </div>
-                <div class="col-lg-8">
-                    <div class="mision_info">
-                        <div class="single_mission">
-                            <p>Dramatically maintain clicks-and-mortar solutions without functional solutions. Completely synergize resource sucking relationships via premier niche markets.</p>
-                        </div>
-                        <div class="single_mission">
-                            <p>Professionally cultivate one-to-one Dynamically innovate resource-leveling customer service for state of the art customer service. Objectively innovate empowered manufactured products whereas parallel platforms service with robust ideas.</p>
-                        </div>
-                        <div class="single_mission">
-                            <p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.</p>
-                        </div>
-                    </div>
+    <section class="section-padding" id="web">
+       <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="section_title text-center mb-90">
+                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Web Services</h3>
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">At TALLEN we Offer You Dynamic Interactive Web Systems.</p>
                 </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-lg-8 mb-5 mb-lg-0">
+                <div class="blog_left_sidebar">
+                                        
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Web Design</h2>
+                                </a>
+                                <p>Web design encompasses many different skills and disciplines in the production and maintenance of websites. At TALLEN we offer the different areas of web design which include web graphic design; interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization.</p>  </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Web Hosting (Space, Email, Domain Registration)</h2>
+                                </a>
+                                <p>Web hosting is a service that allows organizations and individuals to post a website or web page onto the Internet. A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or webpage to be viewed in the Internet. Websites are hosted, or stored, on special computers called servers. When Internet users want to view your website, all they need to do is type your website address or domain into their browser. Their computer will then connect to your server and your webpages will be delivered to them through the browser.</p>
+                                
+                                <p>Hosting require that you own your domain in order to host your website. If you do not have a domain, TALLEN will help you purchase one and give you exclusive access to the following services.
+                                </p>
+                                <img src="img/webhost.webp" style="width:100%; height:250px" class="img-fluid">
+ 
+                            </div>
+                        </article>
+                    <article class="blog_item">
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="single-blog.html">
+                                    <h2>Software Development</h2>
+                                </a>
+                                <p>Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.</p>
+                                <p>At TALLEN we have a Team of Agile Software Developers for both Web based and Mobile based applications that meet the requirements of our Customers using a variety of modern Programming Technologies. </p>
+                            </div>
+                        </article>
+                   
+                </div>
+            </div>
+            
+            <div class="col-lg-4">
+                    <div class="blog_right_sidebar">
+                        <aside class="single_sidebar_widget search_widget">
+                            <form action="#">
+                                <div class="form-group">
+                                    <div class="input-group mb-3">
+                                        <input type="text" class="form-control" placeholder='Search Keyword'
+                                            onfocus="this.placeholder = ''"
+                                            onblur="this.placeholder = 'Search Keyword'">
+                                        <div class="input-group-append">
+                                            <button class="btn" type="button"><i class="ti-search"></i></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
+                                    type="submit">Search</button>
+                            </form>
+                        </aside>
+
+                        <aside class="single_sidebar_widget post_category_widget">
+                            <h4 class="widget_title">Category</h4>
+                            <ul class="list cat-list">
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Websites</p>
+                                        
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Content Management Systems</p>
+                                        
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Mobile Applications</p>
+                                        <p>(Android &amp; iOS)</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Front End Development</p>
+                                       
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="d-flex">
+                                        <p>Backend Apps</p>
+                                        
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        </aside>
+                        <aside class="single_sidebar_widget newsletter_widget">
+                            <h4 class="widget_title">Newsletter</h4>
+
+                            <form action="#">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" onfocus="this.placeholder = ''"
+                                        onblur="this.placeholder = 'Enter email'" placeholder='Enter email' required>
+                                </div>
+                                <button class="button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
+                                    type="submit">Subscribe</button>
+                            </form>
+                        </aside>
+                    </div>
+                </div>
+
+        </div>    
     </div>
 
-    <div class="about_area">
-        <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-lg-5 offset-lg-1">
-                    <div class="about_info">
-                        <div class="section_title white_text">
-                            <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">About Us</span>
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Empowering individuals </h3>
-                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">Efficiently unleash cross-media tour function information without cross action media value. Quickly maximize timely deliverables for real-time schemas.</p>
-                            <p class="last_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">“Function information without cross action media value.</p>
-                            <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">About Us</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="how_we_work_area extra_margin">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="work_info">
-                        <div class="section_title">
-                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">How we work</h3>
-                            <p class="mid_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">“Function information without cross action media value.</p>
-                            <p class="last_p wow fadeInRight" data-wow-duration="1s" data-wow-delay=".5s">Efficiently unleash cross-media tour function information without cross action media value. Quickly maximize timely deliverables for real-time schemas.</p>
-                        </div>
-                        <div class="video_watch d-flex align-items-center">
-                            <div class="play_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                                <a href="https://www.youtube.com/watch?v=D7tF-cY2M9o" class="video_icon popup-video"> <i class="fa fa-play"></i> </a>
-                            </div>
-                           <span class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s"> Watch Video</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- team_member_start -->
-    <div class="team_area ">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section_title text-center mb-90">
-                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Our Creative Team</h3>
-                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Tour function information without cross action media value quickly maximize timely deliverables.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                        <div class="team_thumb">
-                            <img src="img/team/1.png" alt="">
-                            <div class="team_hover">
-                                <div class="hover_inner text-center">
-                                    <ul>
-                                        <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-instagram"></i> </a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team_title text-center">
-                            <h3>Brandon Yeald</h3>
-                            <p>Founder & CEO</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                        <div class="team_thumb">
-                            <img src="img/team/2.png" alt="">
-                            <div class="team_hover">
-                                <div class="hover_inner text-center">
-                                    <ul>
-                                        <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team_title text-center">
-                            <h3>Calvin Anderson</h3>
-                            <p>Graphics Designer</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                        <div class="team_thumb">
-                            <img src="img/team/3.png" alt="">
-                            <div class="team_hover">
-                                <div class="hover_inner text-center">
-                                    <ul>
-                                        <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team_title text-center">
-                            <h3>Roman Solo</h3>
-                            <p>Wordpress Developer</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="single_team wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
-                        <div class="team_thumb">
-                            <img src="img/team/4.png" alt="">
-                            <div class="team_hover">
-                                <div class="hover_inner text-center">
-                                    <ul>
-                                        <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-linkedin"></i> </a></li>
-                                        <li><a href="#"> <i class="fa fa-google-plus"></i> </a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team_title text-center">
-                            <h3>Yeald Kin</h3>
-                            <p>Software Engineer</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--/ team_member_end -->
-
-    <!-- testimonial_area  -->
-    <div class="testimonial_area ">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="testmonial_active owl-carousel">
-                        <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                        <div class="quote">
-                                            <img src="img/testmonial/quote.svg" alt="">
-                                        </div>
-                                        <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br> 
-                                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque.  <br>
-                                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
-                                        <div class="testmonial_author">
-                                            <div class="thumb">
-                                                    <img src="img/testmonial/thumb.png" alt="">
-                                            </div>
-                                            <h3>Robert Thomson</h3>
-                                            <span>Business Owner</span>
-                                        </div>
-                                    </div>
-                        </div>
-                        <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                        <div class="quote">
-                                            <img src="img/testmonial/quote.svg" alt="">
-                                        </div>
-                                        <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br> 
-                                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque.  <br>
-                                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
-                                        <div class="testmonial_author">
-                                            <div class="thumb">
-                                                    <img src="img/testmonial/thumb.png" alt="">
-                                            </div>
-                                            <h3>Robert Thomson</h3>
-                                            <span>Business Owner</span>
-                                        </div>
-                                    </div>
-                        </div>
-                        <div class="single_carousel">
-                                <div class="single_testmonial text-center">
-                                        <div class="quote">
-                                            <img src="img/testmonial/quote.svg" alt="">
-                                        </div>
-                                        <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br> 
-                                                sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque.  <br>
-                                                Fusce ac mattis nulla. Morbi eget ornare dui. </p>
-                                        <div class="testmonial_author">
-                                            <div class="thumb">
-                                                    <img src="img/testmonial/thumb.png" alt="">
-                                            </div>
-                                            <h3>Robert Thomson</h3>
-                                            <span>Business Owner</span>
-                                        </div>
-                                    </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /testimonial_area  -->
-
-    <div class="get_in_tauch_area">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section_title text-center mb-90">
-                        <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Get in Touch</h3>
-                        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Tour function information without cross action media value quickly maximize timely deliverables.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="touch_form">
-                        <form action="#">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                                        <input type="text" placeholder="Your Name" >
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                                        <input type="email" placeholder="Email" >
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                                        <input type="email" placeholder="Subject" >
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="single_input wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                                       <textarea name="" id="" cols="30" placeholder="Message" rows="10"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12">
-                                    <div class="submit_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                                        <button class="boxed-btn3" type="submit">Send Message</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   </section>
 
 
     <!-- footer start -->
-    <footer class="footer">
-        <div class="footer_top">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-2 col-md-3">
-                        <div class="footer_logo wow fadeInRight" data-wow-duration="1s" data-wow-delay=".3s">
-                            <a href="index.html">
-                                <img src="img/logo.png" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-xl-7 col-lg-7 col-md-9">
-                        <div class="menu_links">
-                            <ul>
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".2s" href="#">About</a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></li>
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".4s" href="#">Services</a></li>
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".6s" href="#">Portfolio</a></li>
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".8s" href="#">Pages</a></li>
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1s" href="#">Blog</a></li>
-                                <li><a class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.1s" href="#">Contact</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-12">
-                        <div class="socail_links">
-                            <ul>
-                                <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="#"> <i class="fa fa-facebook"></i> </a></li>
-                                <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" href="#"> <i class="fa fa-twitter"></i> </a></li>
-                                <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" href="#"> <i class="fa fa-instagram"></i> </a></li>
-                                <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" href="#"> <i class="fa fa-google-plus"></i> </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="copy-right_text">
-            <div class="container">
-                <div class="footer_border"></div>
-                <div class="row">
-                    <div class="col-xl-12">
-                        <p class="copy_right text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.3s">
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+   <?php include("footer.php");?>
     <!--/ footer end  -->
 
     <!-- JS here -->

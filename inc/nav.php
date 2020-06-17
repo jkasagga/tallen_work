@@ -23,7 +23,7 @@
                                                 <li><a href="marketing.php">Digital marketing</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#about">About </a></li>
+                                        <li><a href="index.php">About </a></li>
                                         
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
